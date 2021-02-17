@@ -1,0 +1,11 @@
+include:
+  - .md
+  - .disks
+  - .services
+  - .kernel
+  - .network
+  - .users
+  - .pip
+  - .mount
+  - .packages
+  - .upload
